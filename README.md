@@ -1,6 +1,8 @@
-# e-commerce-website-by-pandey!
+# e-commerce-website-by-pandey
 
-[Annotation 2024-07-31 160327](https://github.com/user-attachments/assets/79839f99-e0f8-453d-b3b3-1c127ebe58e8)
+
+
+![Annotation 2024-07-31 160327](https://github.com/user-attachments/assets/79839f99-e0f8-453d-b3b3-1c127ebe58e8)
 ![Annotation 2024-07-31 160419](https://github.com/user-attachments/assets/a8dadec9-2abc-4937-a26c-b48a31cd4bd6)
 ![Annotation 2024-07-31 160500](https://github.com/user-attachments/assets/6dd12b8c-5733-48af-9bf0-3d538e4c8472)
 ![Annotation 2024-07-31 160532](https://github.com/user-attachments/assets/429f1703-8bb7-497c-81f5-f3f9b3f32ee3)
